@@ -2,12 +2,14 @@
 title: Sm Zobaed
 role: "Final-year PhD Student (Projected Graduation date: July'2022)"
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Natural language processing, Information
+  retrieval, Machine/Deep learning, Federated learning, Data analytics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Natural Language Processing
   - Information Retrieval
+  - Machine/Deep Learning
+  - Federated Learning
+  - Data Analytics.
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +44,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Sm Zobaed is a final-year Ph.D. student at University of Louisiana at Lafayette with 4.5+ years of experience at collaborating NSF and Louisiana Board of Regents funded projects. He has experience in data modeling, machine/deep learning, natural language processing, and data analytics to solve complex business problems. Currently, looking for a full-time opportunity as a Data Scientist/Software Engineer role and willing to relocate anywhere in the USA.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/zobaed_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
