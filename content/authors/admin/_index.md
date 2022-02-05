@@ -1,7 +1,7 @@
 ---
 title: Sm Zobaed
 role: "Final-year PhD Student (Projected Graduation date: July'2022)"
-avatar_filename: my_pic.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
