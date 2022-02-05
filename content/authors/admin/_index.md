@@ -33,10 +33,10 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Louisiana at Lafayette
-      year: 2012
+      year: 2022
     - course: MSc in Computer Science
       institution: University of Louisiana at Lafayette
-      year: 2016
+      year: 2019
     - course: BSc in Computer Science
       institution: University of Louisiana at Lafayette
       year: 2015
