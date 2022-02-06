@@ -30,11 +30,8 @@ experience:
     date_start: '2021-06-07'
     date_end: '2021-08-07'
     description: |2-
-        * Analysing
-        * Modelling
-        * Deploying
-        * Automation
-        * Visualization
+        * Analysing, Modelling
+        * Deploying, and Visualization
         
   - title: Graduate Research and Teaching Assistant
     company: University Louisiana at Lafayette
@@ -53,7 +50,6 @@ experience:
     date_start: '2015-12-01'
     date_end: '2017-08-07'
     description: |2-
-    
     * Involved in integration, service configuration of SDH and DWDM nodes, fault, and performance analysis of live network transmission devices.
     * Completed two successful 100G DWDM metro rings.
     
