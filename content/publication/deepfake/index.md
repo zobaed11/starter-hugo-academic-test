@@ -32,7 +32,7 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Artificial Intelligence in Cyber Security: Impact and Implications*
-# publication_short: In *ICSC'2021*
+publication_short: In *2021*
 
 # abstract: —Cloud-based enterprise 
 
