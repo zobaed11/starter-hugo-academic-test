@@ -39,7 +39,7 @@ experience:
     company_logo: 
     location: Lafayette, Louisiana
     date_start: '2017-08-17'
-    date_end: 'Present'
+    date_end: ''
     description: |2- 
         * Acting as a grader and proxy lecturer of INFX 370 (Interactive web development) for consecutive 6 semesters.
         * Contributing NSF funded projects as a member of UL-HPCC lab under the supervision of Dr. Mohsen Amini Salehi.
