@@ -75,7 +75,9 @@ url_pdf: 'https://arxiv.org/pdf/2102.13367.pdf'
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+---
 
+---
 title: "SensPick: Sense Picking for Word Sense Disambiguation"
 
 authors:
