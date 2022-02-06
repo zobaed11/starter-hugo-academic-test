@@ -1,13 +1,17 @@
 ---
-title: "SAED: Edge-Based Intelligence for Privacy-Preserving Enterprise Search on the Cloud"
+title: "DeepFakes: Detecting Forged and Synthetic Media Content Using Machine Learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Mohsen Amini Salehi
-- Rajkumar Buyaa
+- Md Fazle Rabby
+- Md istiaq Hossain
+- Ekram Hossain
+- Md Sazib Hasan
+- Asif Karim
+- Hasib
 
 # Author notes (optional)
 # author_notes:
@@ -18,17 +22,17 @@ authors:
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-30T00:00:00Z"
+publishDate: "2021-09-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/ACM 21st International Symposium on Cluster, Cloud and Internet Computing (CCGrid)*
-publication_short: In *CCGrid'2021*
+publication: In *Artificial Intelligence in Cyber Security: Impact and Implications*
+# publication_short: In *ICSC'2021*
 
 # abstract: —Cloud-based enterprise 
 
@@ -45,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2102.13367.pdf'
+url_pdf: 'https://arxiv.org/pdf/2109.02874.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
