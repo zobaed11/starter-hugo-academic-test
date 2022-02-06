@@ -54,5 +54,5 @@ experience:
       * Completed two successful 100G DWDM metro rings.
 
 design:
-  columns: '2'
+  columns: '3'
 ---
