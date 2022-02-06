@@ -40,8 +40,8 @@ item:
   title: Neural Networks and Deep Learning
   url: 
 - certificate_url: https://coursera.org/share/5c75806f0cf2469df3fa9ba70330ac7f
-  date_end: "2020-07-20"
-  date_start: ""
+  date_end: ""
+  date_start: "2020-07-20"
   description: ""
   organization: Coursera
   organization_url: https://coursera.org/share/5c75806f0cf2469df3fa9ba70330ac7f
