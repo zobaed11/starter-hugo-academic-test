@@ -75,6 +75,30 @@ url_pdf: 'https://arxiv.org/pdf/2102.13367.pdf'
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+
+title: "SensPick: Sense Picking for Word Sense Disambiguation"
+
+authors:
+- admin
+- Md Enamul Haque
+- Md Fazle Rabby
+- Mohsen Amini Salehi
+url_pdf: 'https://arxiv.org/pdf/2102.05260.pdf'
+publishDate: "2021-01-27T00:00:00Z"
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["1"]
+
+# Publication name and optional abbreviated publication name.
+publication: In *2021 IEEE 15th International Conference on Semantic Computing (ICSC)*
+publication_short: In *ICSC'2021*
+
+
+
+
 ---
 
 {{% callout note %}}
