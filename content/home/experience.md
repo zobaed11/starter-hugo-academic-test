@@ -52,8 +52,8 @@ experience:
     date_start: '2015-12-01'
     date_end: '2017-08-07'
     description: |2-
-      * Involved in integration, service configuration of SDH and DWDM nodes, fault, and performance analysis of live network transmission devices.
-      * Completed two successful 100G DWDM metro rings.
+       * Involved in integration, service configuration of SDH and DWDM nodes, fault, and performance analysis of live network transmission devices.
+       * Completed two successful 100G DWDM metro rings.
 
 design:
   columns: '3'
