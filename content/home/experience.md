@@ -44,7 +44,7 @@ experience:
     company_logo: 
     location: Lafayette, Louisiana
     date_start: '2017-08-17'
-    date_end: '2022-07-31'
+    date_end: 'Present'
     description: Acting as a grader of INFX 370 (Interactive web development) for consecutive 6 semesters. I conduct proxy classes and proctor tests of INFX 370. Contributing NSF funded projects as a member of UL-HPCC lab under the supervision of Dr. Mohsen Amini Salehi.   
 
 design:
