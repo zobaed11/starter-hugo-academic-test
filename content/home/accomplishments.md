@@ -47,6 +47,23 @@ item:
   organization_url: https://coursera.org/share/5c75806f0cf2469df3fa9ba70330ac7f
   title: 'Neural Networks and Deep Learning'
   url: ""
+- certificate_url: https://www.hackerrank.com/certificates/a4671c367537?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate
+  date_end: ""
+  date_start: "2021-06-23"
+  description: ""
+  organization: HackerRank
+  organization_url: https://www.hackerrank.com/
+  title: 'Problem Solving (Basic)'
+  url: ""
+- certificate_url: https://www.hackerrank.com/certificates/f05e085616f0
+  date_end: ""
+  date_start: "2020-07-13"
+  description: ""
+  organization: HackerRank
+  organization_url: https://www.hackerrank.com/
+  title: 'Python'
+  url: ""
+
 
 design:
   columns: '2' 
