@@ -52,6 +52,7 @@ experience:
     description: |2-
     * Involved in integration, service configuration of SDH and DWDM nodes, fault, and performance analysis of live network transmission devices.
     * Completed two successful 100G DWDM metro rings.
+
 design:
   columns: '2'
 ---
