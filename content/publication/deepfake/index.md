@@ -31,8 +31,8 @@ publishDate: "2021-09-27T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Artificial Intelligence in Cyber Security: Impact and Implications*
-publication_short: In *2021*
+publication: In *Artificial Intelligence in Cyber Security- Impact and Implications*
+publication_short: In * AICS, 2021*
 
 # abstract: —Cloud-based enterprise 
 
