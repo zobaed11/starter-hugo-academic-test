@@ -32,7 +32,6 @@ experience:
     description: |2-
         * Analysing, Modelling
         * Deploying, and Visualization
-        * 
   - title: Graduate Research and Teaching Assistant
     company: University Louisiana at Lafayette
     company_url: 'https://cmix.louisiana.edu/'
