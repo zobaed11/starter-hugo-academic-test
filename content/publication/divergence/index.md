@@ -1,13 +1,15 @@
 ---
-title: "SAED: Edge-Based Intelligence for Privacy-Preserving Enterprise Search on the Cloud"
+title: "Divergence based non-negative matrix factorization for top-N recommendations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Md. Enamul Haque
 - admin
-- Mohsen Amini Salehi
-- Rajkumar Buyaa
+- Mehmet Engin Tozal
+- Vijay Raghavan
+
 
 # Author notes (optional)
 # author_notes:
@@ -18,7 +20,7 @@ authors:
 # doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-04-30T00:00:00Z"
+publishDate: "2020-01-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +29,8 @@ publishDate: "2021-04-30T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE/ACM 21st International Symposium on Cluster, Cloud and Internet Computing (CCGrid)*
-publication_short: In *CCGrid'2021*
+publication: In *Proceedings of the 52nd Hawaii International Conference on System Sciences*
+publication_short: In *HICSS, 2019*
 
 # abstract: —Cloud-based enterprise 
 
@@ -38,14 +40,14 @@ publication_short: In *CCGrid'2021*
 # tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2102.13367.pdf'
+url_pdf: 'https://arxiv.org/pdf/2109.02874.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
